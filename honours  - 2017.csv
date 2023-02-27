@@ -1,0 +1,178 @@
+country_name,NAME,mp,result,first_party,second_party,electorate,valid_votes,invalid_votes,majority,constituency_info,Turnout (%)
+Scotland,Aberdeen North,Kirsty Blackman,SNP hold,SNP,Labour,62130,36757,55,4139,"Aberdeen North
+MP Kirsty Blackman
+Result SNP",59.2
+Scotland,Aberdeen South,Ross Thomson,Conservative gain from SNP,Conservative,SNP,64964,44493,63,4752,"Aberdeen South
+MP Ross Thomson
+Result Con",68.5
+Scotland,Airdrie and Shotts,Neil Gray,SNP hold,SNP,Labour,64146,38002,47,195,"Airdrie and Shotts
+MP Neil Gray
+Result SNP",59.2
+Scotland,Angus,Kirstene Hair,Conservative gain from SNP,Conservative,SNP,63840,40192,65,2645,"Angus
+MP Kirstene Hair
+Result Con",63
+Scotland,Argyll and Bute,Brendan O'Hara,SNP hold,SNP,Conservative,67230,48069,69,1328,"Argyll and Bute
+MP Brendan O'Hara
+Result SNP",71.5
+Scotland,"Ayr, Carrick and Cumnock",Bill Grant,Conservative gain from SNP,Conservative,SNP,71241,46222,74,2774,"Ayr, Carrick and Cumnock
+MP Bill Grant
+Result Con",64.9
+Scotland,Banff and Buchan,David Duguid,Conservative gain from SNP,Conservative,SNP,67601,41643,46,3693,"Banff and Buchan
+MP David Duguid
+Result Con",61.6
+Scotland,"Berwickshire, Roxburgh and Selkirk",John Lamont,Conservative gain from SNP,Conservative,SNP,73191,52367,96,11060,"Berwickshire, Roxburgh and Selkirk
+MP John Lamont
+Result Con",71.5
+Scotland,"Caithness, Sutherland and Easter Ross",Jamie Stone,Liberal ‏‏‎ Democrat gain from SNP,Liberal Democrat,SNP,46868,30901,35,2044,"Caithness, Sutherland and Easter Ross
+MP Jamie Stone
+Result LD",65.9
+Scotland,Central Ayrshire,Philippa Whitford,SNP hold,SNP,Conservative,68999,45087,75,1267,"Central Ayrshire
+MP Philippa Whitford
+Result SNP",65.3
+Scotland,"Coatbridge, Chryston and Bellshill",Hugh Gaffney,Labour gain from SNP,Labour,SNP,71198,45040,79,1586,"Coatbridge, Chryston and Bellshill
+MP Hugh Gaffney
+Result Lab",63.3
+Scotland,"Cumbernauld, Kilsyth and Kirkintilloch East",Stuart McDonald,SNP hold,SNP,Labour,66554,43833,50,4264,"Cumbernauld, Kilsyth and Kirkintilloch East
+MP Stuart McDonald
+Result SNP",65.9
+Scotland,Dumfries and Galloway,Alister Jack,Conservative gain from SNP,Conservative,SNP,74206,51599,45,5643,"Dumfries and Galloway
+MP Alister Jack
+Result Con",69.5
+Scotland,"Dumfriesshire, Clydesdale and Tweeddale",David Mundell,Conservative hold,Conservative,SNP,67672,48964,60,9441,"Dumfriesshire, Clydesdale and Tweeddale
+MP David Mundell
+Result Con",72.4
+Scotland,Dundee East,Stewart Hosie,SNP hold,SNP,Conservative,65854,42928,57,6645,"Dundee East
+MP Stewart Hosie
+Result SNP",65.2
+Scotland,Dundee West,Chris Law,SNP hold,SNP,Labour,62644,38677,99,5262,"Dundee West
+MP Chris Law
+Result SNP",61.7
+Scotland,Dunfermline and West Fife,Douglas Chapman,SNP hold,SNP,Labour,75672,51010,73,844,"Dunfermline and West Fife
+MP Douglas Chapman
+Result SNP",67.4
+Scotland,East Dunbartonshire,Jo Swinson,Liberal ‏‏‎ Democrat gain from SNP,Liberal Democrat,SNP,66300,51801,68,5339,"East Dunbartonshire
+MP Jo Swinson
+Result LD",78.1
+Scotland,"East Kilbride, Strathaven and Lesmahagow",Lisa Cameron,SNP hold,SNP,Labour,80442,54102,81,3866,"East Kilbride, Strathaven and Lesmahagow
+MP Lisa Cameron
+Result SNP",67.3
+Scotland,East Lothian,Martin Whitfield,Labour gain from SNP,Labour,SNP,79093,55878,57,3083,"East Lothian
+MP Martin Whitfield
+Result Lab",70.6
+Scotland,East Renfrewshire,Paul Masterton,Conservative gain from SNP,Conservative,SNP,70067,53738,67,4712,"East Renfrewshire
+MP Paul Masterton
+Result Con",76.7
+Scotland,Edinburgh East,Tommy Sheppard,SNP hold,SNP,Labour,65896,43523,100,3425,"Edinburgh East
+MP Tommy Sheppard
+Result SNP",66
+Scotland,Edinburgh North and Leith,Deidre Brock,SNP hold,SNP,Labour,79473,56552,72,1625,"Edinburgh North and Leith
+MP Deidre Brock
+Result SNP",71.2
+Scotland,Edinburgh South,Ian Murray,Labour hold,Labour,SNP,64553,47840,73,15514,"Edinburgh South
+MP Ian Murray
+Result Lab",74.1
+Scotland,Edinburgh South West,Joanna Cherry,SNP hold,SNP,Conservative,71178,49390,74,1097,"Edinburgh South West
+MP Joanna Cherry
+Result SNP",69.4
+Scotland,Edinburgh West,Christine Jardine,Liberal ‏‏‎ Democrat gain from SNP,Liberal Democrat,SNP,71500,52795,71,2988,"Edinburgh West
+MP Christine Jardine
+Result LD",73.8
+Scotland,Falkirk,John Mc Nally,SNP hold,SNP,Labour,82240,53809,58,4923,"Falkirk
+MP John Mc Nally
+Result SNP",65.4
+Scotland,Glasgow Central,Alison Thewliss,SNP hold,SNP,Labour,64346,35984,114,2267,"Glasgow Central
+MP Alison Thewliss
+Result SNP",55.9
+Scotland,Glasgow East,David Linden,SNP hold,SNP,Labour,66242,36166,56,75,"Glasgow East
+MP David Linden
+Result SNP",54.6
+Scotland,Glasgow North,Patrick Grady,SNP hold,SNP,Labour,53862,33473,61,1060,"Glasgow North
+MP Patrick Grady
+Result SNP",62.1
+Scotland,Glasgow North East,Paul Sweeney,Labour gain from SNP,Labour,SNP,59931,31775,57,242,"Glasgow North East
+MP Paul Sweeney
+Result Lab",53
+Scotland,Glasgow North West,Carol Monaghan,SNP hold,SNP,Labour,63773,38844,89,2561,"Glasgow North West
+MP Carol Monaghan
+Result SNP",60.9
+Scotland,Glasgow South,Stewart McDonald,SNP hold,SNP,Labour,69126,44550,83,2027,"Glasgow South
+MP Stewart McDonald
+Result SNP",64.4
+Scotland,Glasgow South West,Chris Stephens,SNP hold,SNP,Labour,62991,35378,66,60,"Glasgow South West
+MP Chris Stephens
+Result SNP",56.2
+Scotland,Glenrothes,Peter Grant,SNP hold,SNP,Labour,66378,40399,41,3267,"Glenrothes
+MP Peter Grant
+Result SNP",60.9
+Scotland,Gordon,Colin Clark,Conservative gain from SNP,Conservative,SNP,78531,53685,55,2607,"Gordon
+MP Colin Clark
+Result Con",68.4
+Scotland,Inverclyde,Ronnie Cowan,SNP hold,SNP,Labour,58853,39093,57,384,"Inverclyde
+MP Ronnie Cowan
+Result SNP",66.4
+Scotland,"Inverness, Nairn, Badenoch and Strathspey",Drew Hendry,SNP hold,SNP,Conservative,76844,52801,67,4924,"Inverness, Nairn, Badenoch and Strathspey
+MP Drew Hendry
+Result SNP",68.7
+Scotland,Kilmarnock and Loudoun,Alan Brown,SNP hold,SNP,Labour,73327,46509,81,6269,"Kilmarnock and Loudoun
+MP Alan Brown
+Result SNP",63.4
+Scotland,Kirkcaldy and Cowdenbeath,Lesley Laird,Labour gain from SNP,Labour,SNP,72721,46193,57,259,"Kirkcaldy and Cowdenbeath
+MP Lesley Laird
+Result Lab",63.5
+Scotland,Lanark and Hamilton East,Angela Crawley,SNP hold,SNP,Conservative,77313,50470,57,266,"Lanark and Hamilton East
+MP Angela Crawley
+Result SNP",65.3
+Scotland,Linlithgow and East Falkirk,Martyn Day,SNP hold,SNP,Labour,86186,56094,92,2919,"Linlithgow and East Falkirk
+MP Martyn Day
+Result SNP",65.1
+Scotland,Livingston,Hannah Bardell,SNP hold,SNP,Labour,81208,52505,84,3878,"Livingston
+MP Hannah Bardell
+Result SNP",64.7
+Scotland,Midlothian,Danielle Rowley,Labour gain from SNP,Labour,SNP,68328,45273,71,885,"Midlothian
+MP Danielle Rowley
+Result Lab",66.3
+Scotland,Moray,Douglas Ross,Conservative gain from SNP,Conservative,SNP,70649,47605,62,4159,"Moray
+MP Douglas Ross
+Result Con",67.4
+Scotland,Motherwell and Wishaw,Marion Fellows,SNP hold,SNP,Labour,68215,41926,58,318,"Motherwell and Wishaw
+MP Marion Fellows
+Result SNP",61.5
+Scotland,Na h-Eileanan an Iar,Angus MacNeil,SNP hold,SNP,Labour,21301,14818,35,1007,"Na h-Eileanan an Iar
+MP Angus MacNeil
+Result SNP",69.6
+Scotland,North Ayrshire and Arran,Patricia Gibson,SNP hold,SNP,Conservative,73176,47433,82,3633,"North Ayrshire and Arran
+MP Patricia Gibson
+Result SNP",64.8
+Scotland,North East Fife,Stephen Gethins,SNP hold,SNP,Liberal Democrat,58685,41822,26,2,"North East Fife
+MP Stephen Gethins
+Result SNP",71.3
+Scotland,Ochil and South Perthshire,Luke Graham,Conservative gain from SNP,Conservative,SNP,76767,54168,77,3359,"Ochil and South Perthshire
+MP Luke  Graham
+Result Con",70.6
+Scotland,Orkney and Shetland,Alistair Carmichael,Liberal ‏‏‎ Democrat hold,Liberal Democrat,SNP,34164,23277,43,4563,"Orkney and Shetland
+MP Alistair Carmichael
+Result LD",68.1
+Scotland,Paisley and Renfrewshire North,Gavin Newlands,SNP hold,SNP,Labour,67436,46615,51,2613,"Paisley and Renfrewshire North
+MP Gavin Newlands
+Result SNP",69.1
+Scotland,Paisley and Renfrewshire South,Mhairi Black,SNP hold,SNP,Labour,61344,41712,59,2541,"Paisley and Renfrewshire South
+MP Mhairi Black
+Result SNP",68
+Scotland,Perth and North Perthshire,Pete Wishart,SNP hold,SNP,Conservative,71762,51525,99,21,"Perth and North Perthshire
+MP Pete Wishart
+Result SNP",71.8
+Scotland,"Ross, Skye and Lochaber",Ian Blackford,SNP hold,SNP,Conservative,53638,38454,49,5919,"Ross, Skye and Lochaber
+MP Ian Blackford
+Result SNP",71.7
+Scotland,Rutherglen and Hamilton West,Gerard Killen,Labour gain from SNP,Labour,SNP,80098,50872,57,265,"Rutherglen and Hamilton West
+MP Gerard Killen
+Result Lab",63.5
+Scotland,Stirling,Stephen Kerr,Conservative gain from SNP,Conservative,SNP,66415,49356,72,148,"Stirling
+MP Stephen Kerr
+Result Con",74.3
+Scotland,West Aberdeenshire and Kincardine,Andrew Bowie,Conservative gain from SNP,Conservative,SNP,72477,51625,49,7950,"West Aberdeenshire and Kincardine
+MP Andrew Bowie
+Result Con",71.2
+Scotland,West Dunbartonshire,Martin Docherty-Hughes,SNP hold,SNP,Labour,67602,44083,86,2288,"West Dunbartonshire
+MP Martin Docherty-Hughes
+Result SNP",65.2

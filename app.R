@@ -114,7 +114,30 @@ ui <- fluidPage(navbarPage(
         href = "https://www.snp.org/policies/",
         "https://www.snp.org/policies/",
         target = "_blank"
-      )
+      ),
+            ("Policies and manifestos:"),
+      a(
+        href = "https://www.snp.org/policies/",
+        "https://www.snp.org/policies/",
+        target = "_blank"
+      ),
+      h2("Acknowledgements"),
+      (
+        "Use of official election data taken was from the House of Commons library under the Open parliament licence, for further details please visit:"
+      ),
+      p(
+        a(
+          href = "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/",
+          "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/",
+          target = "_blank"
+        )
+      ),
+      ("Use of Westminster election boundaries have been taken from Ordanance Survey OpenData under the Open Governemnt Licence, for further details, please visit:"),
+      a(
+        href = "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        target = "_blank"
+      ),
     )
   ),
   tabPanel("Results",

@@ -8,11 +8,7 @@
 #
 
 library(sf)
-library(ggplot2)
 library(tmap)
-library(tmaptools)
-library(leaflet)
-library(dplyr)
 
 # Run the application
   source('myUI.R')

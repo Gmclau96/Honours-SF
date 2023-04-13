@@ -32,6 +32,7 @@ myServer <- function(input, output, session) {
       map %>% filter(NAME == input$var)
     }
   })
+  
   output$map <- renderTmap({
     tm_shape(filterConst()) +
       tm_polygons(
@@ -64,9 +65,6 @@ myServer <- function(input, output, session) {
         "Invalid Votes" = "invalid_votes",
         "Majority" = "majority",
       )
-    
   })
-  
-  
 }
 gc()

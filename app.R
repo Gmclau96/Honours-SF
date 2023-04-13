@@ -9,10 +9,11 @@
 
 library(sf)
 library(tmap)
+library(dplyr)
 
 # Run the application
-  source('myUI.R')
-  source('myServer.R')
-  
-  shinyApp(ui = myUI,
-           server = myServer)
+source('myUI.R')
+source('myServer.R')
+
+shinyApp(ui = myUI,
+         server = myServer)
